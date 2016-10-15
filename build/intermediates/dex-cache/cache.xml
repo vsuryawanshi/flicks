@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vsuryawanshi/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/Flicks2/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9-1910f00704df998b7603aff7688282ecbee56ff2.jar" />
+    </item>
+    <item
+        jar="/Users/vsuryawanshi/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/Flicks2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-65f00aeefaa1920868a6701ab83c2f29670ee262.jar" />
+    </item>
+    <item
+        jar="/Users/vsuryawanshi/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/Flicks2/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6-4dd3ada9698eb2970ee489eb166c8aaa52beac12.jar" />
+    </item>
+
+</items>
